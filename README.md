@@ -1,10 +1,10 @@
-# Manisha Makeover Studio Website
+# Manisha's Makeover Studio Website
 
 A responsive and modern website for *Manisha Makeover Studio*, showcasing bridal and studio makeup services. Designed with HTML, CSS, and JavaScript to highlight beauty, professionalism, and user-friendly navigation.
 
 ## Live Demo
 
-[Visit Manisha Makeover Website](https://9940-pg.github.io/Manisha-s-Makeover-Studio-Website)
+[Visit Manisha's Makeover Website](https://9940-pg.github.io/Manisha-s-Makeover-Studio-Website)
 
 
 
