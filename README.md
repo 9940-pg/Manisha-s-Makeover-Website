@@ -4,7 +4,7 @@ A responsive and modern website for *Manisha Makeover Studio*, showcasing bridal
 
 ## Live Demo
 
-[Visit Manisha's Makeover Website](https://9940-pg.github.io/Manisha-s-Makeover-Studio-Website)
+[Visit Manisha's Makeover Studio Website](https://9940-pg.github.io/Manisha-s-Makeover-Studio-Website)
 
 
 
