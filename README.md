@@ -4,7 +4,9 @@ A responsive and modern website for *Manisha Makeover Studio*, showcasing bridal
 
 ## Live Demo
 
-[Click here to view the live site](https://yourusername.github.io/Manisha-s-Makeover-Website)
+[Visit Manisha Makeover Website](https://9940-pg.github.io/Manisha-s-Makeover-Studio-Website)
+
+
 
 ## Features
 
@@ -17,18 +19,11 @@ A responsive and modern website for *Manisha Makeover Studio*, showcasing bridal
 
 ## Screenshots
 ## Website Preview
+![Screenshot](screenshots/Screenshot%20(17).png)
+![Screenshot](screenshots/Screenshot%20(18).png)
+![Screenshot](screenshots/Screenshot%20(19).png)
+![Screenshot](screenshots/Screenshot%20(21).png)
 
-### Home Page
-![Home Page](screenshot(17.)png)
-
-### Services Section
-![Services Section](screenshots/services.png2)
-
-### Gallery Section
-![Gallery](screenshots/gallery.png3)
-
-### Contact Section
-![Contact](screenshots/contact.png4)
 
 
 
