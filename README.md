@@ -19,7 +19,7 @@ A responsive and modern website for *Manisha Makeover Studio*, showcasing bridal
 ## Website Preview
 
 ### Home Page
-![Home Page](screenshots/home.png1)
+![Home Page](screenshot(17.)png)
 
 ### Services Section
 ![Services Section](screenshots/services.png2)
